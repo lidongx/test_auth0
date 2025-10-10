@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "7PQAG2L32N.ai.notmagic.ai-oppaya",
-        "paths": [ "*" ]
+        "paths": [ "/callback*" ]
       }
     ]
   },
